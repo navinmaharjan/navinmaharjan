@@ -25,7 +25,3 @@ I'm Navin Maharjan, a tech enthusiast and enthusiastic learner, in the process o
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### My Github Stats:
-![navinmaharjan's Stats](https://github-readme-stats.vercel.app/api?username=navinmaharjan&theme=react&show_icons=true&hide_border=true&count_private=true)
-
-![navinmaharjan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=navinmaharjan&theme=react&hide_border=true)
