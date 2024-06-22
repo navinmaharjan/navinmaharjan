@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nabin Maharjan, a professional and passionate web developer who specializes in the MERN stack. I adore creating seamless and dynamic online applications that deliver an excellent user experience. I'm constantly ready to learn new technologies and enhance my coding skills.
+Hi, I'm Navin Maharjan, a professional and passionate web developer who specializes in the MERN stack. I adore creating seamless and dynamic online applications that deliver an excellent user experience. I'm constantly ready to learn new technologies and enhance my coding skills.
 
 
 # 💻 Tech Stack:
