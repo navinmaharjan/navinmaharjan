@@ -22,6 +22,3 @@ Hi, I'm Navin Maharjan, a proficient  and passionate web developer who special
 
 
 
-
----
-[![](https://visitcount.itsvg.in/api?id=navinmaharjan&icon=0&color=0)](https://visitcount.itsvg.in)
