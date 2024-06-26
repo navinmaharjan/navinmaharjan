@@ -21,15 +21,7 @@ Hi, I'm Navin Maharjan, a proficient  and passionate web developer who special
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=navinmaharjan&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=navinmaharjan&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=navinmaharjan&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/being-nabin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamnavin_vibe) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=navinmaharjan&icon=0&color=0)](https://visitcount.itsvg.in)
